@@ -2,15 +2,23 @@
 
 A new Flutter project.
 
+This repository contains the source code for the Flutter app named "Flutter Quiz" Below are the instructions to set up and run the app on your local machine.
+
+## Prerequisites
+
+Before running the app, make sure you have the following software installed:
+
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Dart SDK: [Install Dart](https://dart.dev/get-dart)
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone this repository to your local machine:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/your-username/your-app.git
+cd your-app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Run the app on your preferred device (emulator or physical device):
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
